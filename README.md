@@ -4,6 +4,15 @@
 
 A group to which a class can be assigned for custom styling.
 
+```sh
+# Install via npm
+npm install directus-extension-classified-group
+# Install via yarn
+yarn add directus-extension-classified-group
+# Install via pnpm
+pnpm add directus-extension-classified-group
+```
+
 ## Examples
 
 <details><summary>Example 1: Change spacing between fields</summary>
