@@ -2,8 +2,10 @@
 
 A group to which a class can be assigned for custom styling.
 
--   Installation: [Official Guide](https://docs.directus.io/extensions/installing-extensions.html)
--   NPM package: [directus-extension-classified-group](https://www.npmjs.com/package/directus-extension-classified-group)
+## Installation
+
+-   [Official Guide](https://docs.directus.io/extensions/installing-extensions.html)
+-   [NPM Package](https://www.npmjs.com/package/directus-extension-classified-group)
 
 ## Examples
 
