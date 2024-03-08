@@ -1,6 +1,6 @@
 {
     "name": "directus-extension-classified-group",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "A group to which a class can be assigned for custom styling",
     "license": "GPL-3.0",
     "author": {
@@ -11,7 +11,7 @@
         "type": "git",
         "url": "https://github.com/formfcw/directus-extension-classified-group"
     },
-    "icon": "extension",
+    "icon": "brush",
     "keywords": [
         "directus",
         "directus-extension",
