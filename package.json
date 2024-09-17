@@ -1,6 +1,6 @@
 {
     "name": "directus-extension-classified-group",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "A group to which a class can be assigned for custom styling",
     "license": "GPL-3.0",
     "author": {
@@ -24,10 +24,10 @@
     ],
     "type": "module",
     "directus:extension": {
+        "host": "^10.0.0 || ^11.0.0",
         "type": "interface",
         "path": "dist/index.js",
-        "source": "src/index.ts",
-        "host": "^10.1.11"
+        "source": "src/index.ts"
     },
     "files": [
         "dist"
@@ -39,7 +39,7 @@
         "link": "directus-extension link"
     },
     "devDependencies": {
-        "@directus/extensions-sdk": "10.1.11",
+        "@directus/extensions-sdk": "^12.0.2",
         "typescript": "^5.2.2",
         "vue": "^3.3.5"
     }
